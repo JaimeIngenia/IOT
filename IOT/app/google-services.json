@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "953989986084",
+    "firebase_url": "https://iotrasp-7a9ff.firebaseio.com",
+    "project_id": "iotrasp-7a9ff",
+    "storage_bucket": "iotrasp-7a9ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953989986084:android:1dc3655e3ef8fd821ee5b1",
+        "android_client_info": {
+          "package_name": "com.iot.helpluis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953989986084-p473t19mcjj746us0e3ejmgstl0nh8i3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDBo-Rxo4mimKRspPatEPXp1cUV65VfdJs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953989986084-p473t19mcjj746us0e3ejmgstl0nh8i3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
